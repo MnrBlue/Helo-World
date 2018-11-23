@@ -1,4 +1,4 @@
 # Hello-World
 My first repository
 
-I am an aspiring programmer and I like learning new concepts.
+I am an aspiring programmer and I enjoy learning new concepts.
